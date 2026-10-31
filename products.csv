@@ -1,0 +1,4 @@
+url,title_selector,price_selector
+https://www.demoblaze.com/prod.html?idp_=1,h2.name,h3.price-container
+https://www.demoblaze.com/prod.html?idp_=2,h2.name,h3.price-container
+https://www.demoblaze.com/prod.html?idp_=3,h2.name,h3.price-container
